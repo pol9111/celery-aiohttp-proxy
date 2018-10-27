@@ -1,0 +1,4 @@
+2018-09-19 23:45:20,657 - scheduler.py[line:32] - INFO: Íê³ÉÑ­»·
+2018-09-19 23:45:20,658 - log.py[line:235] - WARNING: Finish!!
+2018-09-19 23:45:20,664 - log.py[line:235] - WARNING: 0:03:18.296491
+2018-09-19 23:45:20,667 - trace.py[line:124] - INFO: Task utils.new_func[7752f85d-c714-48a6-b78b-81fc14a2df60] succeeded in 198.31299999999464s: None

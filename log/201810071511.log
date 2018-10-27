@@ -1,0 +1,5 @@
+2018-10-07 15:11:51,579 - scheduler.py[line:20] - INFO: 完成循环
+2018-10-07 15:11:51,580 - log.py[line:235] - WARNING: Finish!!
+2018-10-07 15:11:51,580 - log.py[line:235] - WARNING: 0:01:05.713640
+2018-10-07 15:11:51,581 - trace.py[line:124] - INFO: Task utils.new_func[859506f2-573d-4c71-a02b-88c4453556f4] succeeded in 65.71900000000096s: None
+2018-10-07 15:11:51,589 - control.py[line:281] - INFO: Events of group {task} enabled by remote.
